@@ -14,6 +14,8 @@ Rol: 202073108-k
 ### Requisitos previos
 
 - Tener instalado Java JDK 8 o superior.
+- Descargar el .jar para junit de este enlace: https://repo1.maven.org/maven2/org/junit/platform/junit-platform-console-standalone/1.9.3/
+- Dejar el .jar dentro de una carpeta llamada lib dentro del directorio del proyecto.
 
 ### Compilar
 
