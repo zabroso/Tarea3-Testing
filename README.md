@@ -1,6 +1,15 @@
-# Proyecto Java - Compilación, Ejecución y Pruebas con JUnit
+# Tarea 3
+## Datos Estudiante
 
-## Instrucciones para compilar, ejecutar y probar
+Nombre: Pablo Marambio
+
+Rol: 202073108-k
+
+## Diagrama UML
+
+![Diagrama uml](/uml.png)
+
+## Instrucciones
 
 ### Requisitos previos
 
@@ -53,3 +62,11 @@ Test run finished after 65 ms
 ```
 
 ## ¿Qué tipo de cobertura he medido y por qué?
+
+Gracias a Eclemma se obtiene una cobertura de 68,5%, es decir, al menos el 68,5% de las líneas de código fueron ejecutadas al menos una vez durante las pruebas.
+
+![Imagen eclipse](/eclipse.png)
+
+## Consideraciones
+
+Para calcular la cobertura tuve que modificar un poco la estructura del codigo dentro de eclipse.
